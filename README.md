@@ -84,5 +84,5 @@ This repository is based on the original Hashcat GitHub repository.
 
 🧠 Author
 
-Maintained by @Nailo27, a cybersecurity student exploring OpenCL, GPU acceleration, and reverse engineering in password cracking.
+Maintained by @Nailo27, @LocoBunny04, and @nathanwright18, cybersecurity students exploring OpenCL, GPU acceleration, and reverse engineering in password cracking.
 
