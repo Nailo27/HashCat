@@ -19,13 +19,21 @@ Educating students or professionals on GPU-based parallel computing
 The key directory in this repository is:
 
 Hashcat-Trial/
+
 ├── OpenCL/                 # All OpenCL (.cl) and associated headers (.h) used in cracking algorithms
+
 │   ├── inc_*               # Common includes for ciphers, hashes, etc.
+
 │   ├── m0XXXX_*            # Optimized and pure kernel implementations for different hash modes
+
 │   └── ...                 # Full kernel coverage for a wide range of modes
+
 ├── .travis.yml            # CI configuration for Travis CI
+
 ├── .editorconfig          # Editor and formatting preferences
+
 ├── BUILD*.md              # Platform-specific build instructions
+
 └── *.Zone.Identifier      # (Optional) Metadata files from Windows; can be safely ignored
 
 🛠️ Features
